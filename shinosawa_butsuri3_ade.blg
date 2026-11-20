@@ -1,0 +1,33 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'shinosawa_butsuri3_ade.blg'
+[36] biber-darwin:342> INFO - === Fri Nov 20, 2026, 12:24:14
+[45] Biber.pm:421> INFO - Reading 'shinosawa_butsuri3_ade.bcf'
+[89] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[90] Biber.pm:1002> INFO - Found 2 citekeys in bib section 1
+[90] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[90] Biber.pm:1002> INFO - Found 26 citekeys in bib section 2
+[90] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[90] Biber.pm:1002> INFO - Found 8 citekeys in bib section 3
+[90] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[108] Biber.pm:4487> INFO - Processing section 1
+[116] Biber.pm:4678> INFO - Looking for bibtex file 'shinosawa3_references.bib' for section 1
+[118] bibtex.pm:1713> INFO - LaTeX decoding ...
+[139] bibtex.pm:1519> INFO - Found BibTeX data source 'shinosawa3_references.bib'
+[161] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[161] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[162] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[162] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[168] Biber.pm:4487> INFO - Processing section 2
+[169] Biber.pm:4678> INFO - Looking for bibtex file 'shinosawa3_references.bib' for section 2
+[251] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[251] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[251] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[251] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[259] Biber.pm:4487> INFO - Processing section 3
+[259] Biber.pm:4678> INFO - Looking for bibtex file 'shinosawa3_references.bib' for section 3
+[289] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[289] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[289] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[289] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[292] bbl.pm:676> INFO - Writing 'shinosawa_butsuri3_ade.bbl' with encoding 'UTF-8'
+[301] bbl.pm:779> INFO - Output to shinosawa_butsuri3_ade.bbl
